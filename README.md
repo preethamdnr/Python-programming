@@ -3,3 +3,4 @@
 2. Operations on data types (int, float)
 3. String-indexing,slicing
 4. String(.format(),f-string)
+5. Operatores(and,or,not)
