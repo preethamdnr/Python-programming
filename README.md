@@ -4,3 +4,4 @@
 3. String-indexing,slicing
 4. String(.format(),f-string)
 5. Operatores(and,or,not)
+6. Control statement(if)
