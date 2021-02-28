@@ -9,4 +9,4 @@ This is my python notes for easy revision
 7. Control statement(for)
 8. Control statement(while).
 .
-.
+
