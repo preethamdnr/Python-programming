@@ -1,5 +1,5 @@
 ## Python Programming
-This is my python notes for easy revision
+This is my python notes for easy revision.
 1. Data types in python
 2. Operations on data types (int, float).
 3. String-indexing,slicing
