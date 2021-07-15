@@ -6,6 +6,6 @@ This is my python notes for easy revision
 4. String(.format(),f-string)
 5. Operatores(and,or,not)
 6. Control statement(if).
-7. Control statement(for).
+7. Control statement(for)..
 8. Control statement(while)
 
